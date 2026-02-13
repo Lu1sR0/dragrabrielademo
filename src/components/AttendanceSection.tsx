@@ -62,7 +62,7 @@ const AttendanceSection = () => {
               Telemedicina para todo o Brasil com o mesmo nível de atenção e detalhamento.
             </p>
             <a
-              href="https://wa.me/5547992199595?text=Olá!%20Gostaria%20de%20agendar%20uma%20consulta%20online%20com%20a%20Dra.%20Gabriela."
+              href="https://wa.me/553891861703?text=Olá!%20Gostaria%20de%20agendar%20uma%20consulta%20online%20com%20a%20Dra.%20Gabriela."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1.5 text-sm font-medium text-primary hover:gap-2.5 transition-all"
