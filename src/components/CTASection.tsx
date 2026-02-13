@@ -37,7 +37,7 @@ const CTASection = () => {
 
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center">
             <a
-              href="https://wa.me/5547992199595?text=Olá!%20Gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Dra.%20Gabriela."
+              href="https://wa.me/553891861703?text=Olá!%20Gostaria%20de%20agendar%20uma%20consulta%20com%20a%20Dra.%20Gabriela."
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary gap-2 text-base py-4 px-8"
@@ -46,7 +46,7 @@ const CTASection = () => {
               <ArrowRight size={16} />
             </a>
             <a
-              href="https://wa.me/5547992199595?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20os%20atendimentos%20da%20Dra.%20Gabriela."
+              href="https://wa.me/553891861703?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20os%20atendimentos%20da%20Dra.%20Gabriela."
               target="_blank"
               rel="noopener noreferrer"
               className="btn-outline gap-2 text-base py-4 px-8"
